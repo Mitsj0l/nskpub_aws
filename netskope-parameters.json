@@ -1,0 +1,42 @@
+[
+  {
+    "ParameterKey": "InstanceName",
+    "ParameterValue": "AWSPUB"
+  },
+  {
+    "ParameterKey": "KeyPairName",
+    "ParameterValue": "<your keypair name>"
+  },
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t3.medium"
+  },
+  {
+    "ParameterKey": "VpcId",
+    "ParameterValue": "<your VPC ID>"
+  },
+  {
+    "ParameterKey": "SubnetId",
+    "ParameterValue": "<your Subnet ID>"
+  },
+  {
+    "ParameterKey": "TenantUrl",
+    "ParameterValue": "XXXX.goskope.com"
+  },
+  {
+    "ParameterKey": "ApiToken",
+    "ParameterValue": "<your Netskope API Token>"
+  },
+  {
+    "ParameterKey": "PublisherTag",
+    "ParameterValue": ""
+  },
+  {
+    "ParameterKey": "PublisherUpgrade",
+    "ParameterValue": "1"
+  },
+  {
+    "ParameterKey": "InstanceCount",
+    "ParameterValue": "4"
+  }
+]
